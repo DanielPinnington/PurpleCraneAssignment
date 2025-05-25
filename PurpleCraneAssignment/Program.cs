@@ -8,7 +8,7 @@ class Program
     {
         List<string> lines = new List<string>();
 
-        Console.WriteLine("Paste your input (empty line to finish):");
+        Console.WriteLine(" 1) Grid size \n 2) Place on grid \n 3) Movement command \n 4) Second hoover - Place on grid \n 5) Second hoover - Movement Commands \n 6) Empty line (or enter) to finish");
         string? line;
         while (!string.IsNullOrWhiteSpace(line = Console.ReadLine()))
         {
