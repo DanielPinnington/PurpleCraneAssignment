@@ -47,4 +47,4 @@ After the processing the commands for each hoover, the final position, direction
 
 • If successful should return the printed results for each hoover. 
 
-![Demo of Hoover running](./images/HooverAssignmentDemo.gif)
+![Demo of Hoover running](images/HooverAssignmentDemo.gif)
